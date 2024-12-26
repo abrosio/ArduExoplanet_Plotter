@@ -1,6 +1,6 @@
-# ArduExoplanet_Plotter
+# ArduExoplanet_PLOT
 
-ArduExoplanet Plotter is a program designed to monitor and visualize in real-time data from a photoresistor connected to a microcontroller such as Arduino. The goal is to simulate photometry experiments used in the observation of exoplanets.
+ArduExoplanet_PLOT is a program designed to monitor and visualize in real-time data from a photoresistor connected to a microcontroller such as Arduino. The goal is to simulate photometry experiments used in the observation of exoplanets.
 
 ## Key Features
 
@@ -17,28 +17,10 @@ ArduExoplanet Plotter is a program designed to monitor and visualize in real-tim
 
 ## Installation
 
-1. **Clone the Repository**
+The installable file can be downloaded from the following address:  
+**[www.antoninobrosio.it]**
 
-   ```bash
-git clone https://github.com/your-username/ArduExoplanet.git
-cd ArduExoplanet
-   ```
-
-2. **Set Up the Environment**
-
-   Ensure the dependencies are installed. If not, use the command above.
-
-3. **Prepare Arduino**
-
-   Upload a sketch to Arduino that sends photoresistor data via the serial port.
-
-4. **Run the Program**
-
-   Launch the program with:
-
-   ```bash
-   python main.py
-   ```
+Once downloaded, run the installer and follow the instructions to complete the installation.
 
 ## Usage
 
@@ -50,6 +32,11 @@ cd ArduExoplanet
    - **Reset the graph**
    - **Save a screenshot** of the graph
    - **Update the plot speed**
+
+## Additional Resources
+
+- **3D Printing Files**: You can find the files for 3D printing components at [Thingiverse](https://www.thingiverse.com/thing:6888870).
+- **Arduino Firmware**: The firmware for the Arduino part of this project is available on [GitHub](https://github.com/abrosio/ArduExoplanet).
 
 ## Interface Preview
 
