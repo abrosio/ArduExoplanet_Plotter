@@ -48,10 +48,6 @@ Here is a preview of the user interface:
 
 Contributions to the project are welcome! Feel free to open an issue or a pull request to suggest improvements or report problems.
 
-## License
-
-This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 © 2024 Antonino Brosio - [www.antoninobrosio.it](https://www.antoninobrosio.it)
