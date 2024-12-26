@@ -42,7 +42,7 @@ Once downloaded, run the installer and follow the instructions to complete the i
 
 Here is a preview of the user interface:
 
-![Interface Example](screenshot.png)
+![Interface Example](ArduExoplanet_plot.png)
 
 ## Contributing
 
