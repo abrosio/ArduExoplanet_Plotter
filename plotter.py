@@ -2,7 +2,7 @@ import serial
 import time
 import matplotlib.pyplot as plt
 import tkinter as tk
-from tkinter import messagebox, ttk, filedialog
+from tkinter import ttk, filedialog
 from datetime import datetime
 import serial.tools.list_ports
 import ttkbootstrap as ttkb
