@@ -2,6 +2,9 @@
 
 ArduExoplanet_PLOT is a program designed to monitor and visualize in real-time data from a photoresistor connected to a microcontroller such as Arduino. The goal is to simulate photometry experiments used in the observation of exoplanets.
 
+## Language
+Only Italian
+
 ## Key Features
 
 - **Real-time plotting** of photoresistor data.
