@@ -25,6 +25,11 @@ The executable app can be downloaded from the following address:
 
 Once downloaded, run the installer and follow the instructions to complete the installation.
 
+## Additional Resources
+
+- **3D Printing Files**: You can find the files for 3D printing components at [Thingiverse](https://www.thingiverse.com/thing:6888870).
+- **Arduino Firmware**: The firmware for the Arduino part of this project is available on [GitHub](https://github.com/abrosio/ArduExoplanet).
+
 ## Usage
 
 1. Connect your Arduino (or another microcontroller) to your PC.
@@ -35,11 +40,6 @@ Once downloaded, run the installer and follow the instructions to complete the i
    - **Reset the graph**
    - **Save a screenshot** of the graph
    - **Update the plot speed**
-
-## Additional Resources
-
-- **3D Printing Files**: You can find the files for 3D printing components at [Thingiverse](https://www.thingiverse.com/thing:6888870).
-- **Arduino Firmware**: The firmware for the Arduino part of this project is available on [GitHub](https://github.com/abrosio/ArduExoplanet).
 
 ## Interface Preview
 
