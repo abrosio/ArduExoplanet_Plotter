@@ -20,7 +20,7 @@ Only Italian
 
 ## Installation
 
-The installable file can be downloaded from the following address:  
+The executable app can be downloaded from the following address:  
 **https://github.com/abrosio/ArduExoplanet_Plotter/releases/tag/ArduExoplanet_Plot**
 
 Once downloaded, run the installer and follow the instructions to complete the installation.
